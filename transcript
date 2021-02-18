@@ -1,0 +1,875 @@
+# Compile of ex.v was successful.
+# Compile of ex_mem.v failed with 1 errors.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v failed with 1 errors.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v failed with 2 errors.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 3 failed with 4 errors.
+# Error opening D:/sopc/(vlog-13069) D:/sopc/pc_reg.v
+# Path name 'D:/sopc/(vlog-13069) D:/sopc/pc_reg.v' doesn't exist.
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+vsim work.openmips_min_sopc_tb
+# vsim work.openmips_min_sopc_tb 
+# Start time: 02:10:32 on Nov 27,2020
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ex_mem0'.  Expected 38, found 35.
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/openmips0/ex_mem0 File: D:/sopc/openmips.v Line: 413
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_excepttype'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_is_in_delayslot'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_current_inst_address'.
+do D:/sopc/wave.do
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ex_mem0'.  Expected 38, found 35.
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/openmips0/ex_mem0 File: D:/sopc/openmips.v Line: 413
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_excepttype'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_is_in_delayslot'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_current_inst_address'.
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ex_mem0'.  Expected 38, found 35.
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/openmips0/ex_mem0 File: D:/sopc/openmips.v Line: 413
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_excepttype'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_is_in_delayslot'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_current_inst_address'.
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ex_mem0'.  Expected 38, found 35.
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/openmips0/ex_mem0 File: D:/sopc/openmips.v Line: 413
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_excepttype'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_is_in_delayslot'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_current_inst_address'.
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ex_mem0'.  Expected 38, found 35.
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/openmips0/ex_mem0 File: D:/sopc/openmips.v Line: 413
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_excepttype'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_is_in_delayslot'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_current_inst_address'.
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ex_mem0'.  Expected 38, found 35.
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/openmips0/ex_mem0 File: D:/sopc/openmips.v Line: 413
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_excepttype'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_is_in_delayslot'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_current_inst_address'.
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ex_mem0'.  Expected 38, found 35.
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/openmips0/ex_mem0 File: D:/sopc/openmips.v Line: 413
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_excepttype'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_is_in_delayslot'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_current_inst_address'.
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ex_mem0'.  Expected 38, found 35.
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/openmips0/ex_mem0 File: D:/sopc/openmips.v Line: 413
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_excepttype'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_is_in_delayslot'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_current_inst_address'.
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ex_mem0'.  Expected 38, found 35.
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/openmips0/ex_mem0 File: D:/sopc/openmips.v Line: 413
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_excepttype'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_is_in_delayslot'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_current_inst_address'.
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ex_mem0'.  Expected 38, found 35.
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/openmips0/ex_mem0 File: D:/sopc/openmips.v Line: 413
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_excepttype'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_is_in_delayslot'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_current_inst_address'.
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (1) for port 'ram_ce_o'. The port definition is at: D:/sopc/openmips.v(21).
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/openmips0 File: D:/sopc/openmips_min_sopc.v Line: 26
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (4) for port 'mem_ce_o'. The port definition is at: D:/sopc/mem.v(68).
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/openmips0/mem0 File: D:/sopc/openmips.v Line: 447
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'ex_mem0'.  Expected 38, found 35.
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/openmips0/ex_mem0 File: D:/sopc/openmips.v Line: 413
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_excepttype'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_is_in_delayslot'.
+# ** Warning: (vsim-3722) D:/sopc/openmips.v(413): [TFMPC] - Missing connection for port 'ex_current_inst_address'.
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (1) for port 'ram_ce_o'. The port definition is at: D:/sopc/openmips.v(21).
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/openmips0 File: D:/sopc/openmips_min_sopc.v Line: 26
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (4) for port 'mem_ce_o'. The port definition is at: D:/sopc/mem.v(68).
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/openmips0/mem0 File: D:/sopc/openmips.v Line: 447
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+run
+# ** Note: $stop    : D:/sopc/openmips_min_sopc_tb.v(17)
+#    Time: 4205 ns  Iteration: 0  Instance: /openmips_min_sopc_tb
+# Break in Module openmips_min_sopc_tb at D:/sopc/openmips_min_sopc_tb.v line 17
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+run
+# Compile of ex.v was successful.
+# Compile of ex_mem.v was successful.
+# Compile of id.v was successful.
+# Compile of id_ex.v was successful.
+# Compile of if_id.v was successful.
+# Compile of inst_rom.v was successful.
+# Compile of mem.v was successful.
+# Compile of mem_wb.v was successful.
+# Compile of openmips.v was successful.
+# Compile of openmips_min_sopc.v was successful.
+# Compile of openmips_min_sopc_tb.v was successful.
+# Compile of pc_reg.v was successful.
+# Compile of regfile.v was successful.
+# Compile of hilo_reg.v was successful.
+# Compile of ctrl.v was successful.
+# Compile of div.v was successful.
+# Compile of data_ram.v was successful.
+# Compile of LLbit_reg.v was successful.
+# Compile of cp0_reg.v was successful.
+# 19 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.openmips_min_sopc_tb
+# Loading work.openmips_min_sopc
+# Loading work.openmips
+# Loading work.pc_reg
+# Loading work.if_id
+# Loading work.id
+# Loading work.regfile
+# Loading work.id_ex
+# Loading work.ex
+# Loading work.ex_mem
+# Loading work.mem
+# Loading work.mem_wb
+# Loading work.hilo_reg
+# Loading work.ctrl
+# Loading work.div
+# Loading work.LLbit_reg
+# Loading work.cp0_reg
+# Loading work.inst_rom
+# Loading work.data_ram
+run
+run
+run
+# ** Note: $stop    : D:/sopc/openmips_min_sopc_tb.v(17)
+#    Time: 10105 ns  Iteration: 0  Instance: /openmips_min_sopc_tb
+# Break in Module openmips_min_sopc_tb at D:/sopc/openmips_min_sopc_tb.v line 17
+run
+# End time: 02:32:33 on Nov 27,2020, Elapsed time: 0:22:01
+# Errors: 0, Warnings: 1

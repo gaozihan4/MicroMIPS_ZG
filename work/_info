@@ -1,0 +1,449 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vcp0_reg
+!s110 1606462311
+!i10b 1
+!s100 hePQXIPZ9_S_l15EM<jkg2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9n?YD[nRj<>l:cWDjl2R`3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/sopc
+w1606459953
+8D:/sopc/cp0_reg.v
+FD:/sopc/cp0_reg.v
+!i122 2026
+L0 5 179
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1606462311.000000
+!s107 defines.v|D:/sopc/cp0_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/cp0_reg.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vctrl
+Z6 !s110 1606462310
+!i10b 1
+!s100 2zbnI4I[V@1H2A?_GAQaF2
+R0
+IAlW>[I6?LzfG5Va?T8FEe0
+R1
+R2
+w1606461014
+8D:/sopc/ctrl.v
+FD:/sopc/ctrl.v
+!i122 2022
+L0 5 64
+R3
+r1
+!s85 0
+31
+Z7 !s108 1606462310.000000
+!s107 defines.v|D:/sopc/ctrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/ctrl.v|
+!i113 1
+R4
+R5
+vdata_ram
+R6
+!i10b 1
+!s100 SCLN:G4=j3`5DCVSm1^P_3
+R0
+IS[j`SHNf0eVFDekaK1NNQ2
+R1
+R2
+w1606374920
+8D:/sopc/data_ram.v
+FD:/sopc/data_ram.v
+!i122 2024
+L0 5 48
+R3
+r1
+!s85 0
+31
+R7
+!s107 defines.v|D:/sopc/data_ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/data_ram.v|
+!i113 1
+R4
+R5
+vdiv
+R6
+!i10b 1
+!s100 EUnjQ=HnVVEMmFSL0k=A@1
+R0
+I:mM^H1Ll871je12FSmTzm0
+R1
+R2
+w1606200959
+8D:/sopc/div.v
+FD:/sopc/div.v
+!i122 2023
+L0 5 98
+R3
+r1
+!s85 0
+31
+R7
+!s107 defines.v|D:/sopc/div.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/div.v|
+!i113 1
+R4
+R5
+vex
+!s110 1606462306
+!i10b 1
+!s100 U`2Sz8MNf`_LPlNP3337J3
+R0
+IlA_iEWd<92gg<NEUjlen01
+R1
+R2
+w1606459046
+8D:/sopc/ex.v
+FD:/sopc/ex.v
+!i122 2008
+L0 5 550
+R3
+r1
+!s85 0
+31
+!s108 1606462306.000000
+!s107 defines.v|D:/sopc/ex.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/ex.v|
+!i113 1
+R4
+R5
+vex_mem
+Z8 !s110 1606462307
+!i10b 1
+!s100 ;LlSiQQ?;F9l]H=8]0IDT2
+R0
+I9I=0^ec36OGGaeoA6G]g30
+R1
+R2
+w1606460918
+8D:/sopc/ex_mem.v
+FD:/sopc/ex_mem.v
+!i122 2009
+L0 5 156
+R3
+r1
+!s85 0
+31
+Z9 !s108 1606462307.000000
+!s107 defines.v|D:/sopc/ex_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/ex_mem.v|
+!i113 1
+R4
+R5
+vhilo_reg
+R6
+!i10b 1
+!s100 J_0e>I>d@d8RklcBH4Kj>1
+R0
+I[FIHg1944IGf>7ce`Rh:j3
+R1
+R2
+w1606105674
+8D:/sopc/hilo_reg.v
+FD:/sopc/hilo_reg.v
+!i122 2021
+L0 6 25
+R3
+r1
+!s85 0
+31
+Z10 !s108 1606462309.000000
+!s107 defines.v|D:/sopc/hilo_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/hilo_reg.v|
+!i113 1
+R4
+R5
+vid
+R8
+!i10b 1
+!s100 [IDmHjAQC5a@ok49AM_@;1
+R0
+IVMo_1_[kGhRUjClADOE5_2
+R1
+R2
+w1606458245
+8D:/sopc/id.v
+FD:/sopc/id.v
+!i122 2010
+L0 5 1005
+R3
+r1
+!s85 0
+31
+R9
+!s107 defines.v|D:/sopc/id.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/id.v|
+!i113 1
+R4
+R5
+vid_ex
+R8
+!i10b 1
+!s100 mIgBKS44Yg0E`<;`fRo922
+R0
+I7h27eFTR^YSjmlgo2NXRB2
+R1
+R2
+w1606458512
+8D:/sopc/id_ex.v
+FD:/sopc/id_ex.v
+!i122 2011
+L0 5 94
+R3
+r1
+!s85 0
+31
+R9
+!s107 defines.v|D:/sopc/id_ex.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/id_ex.v|
+!i113 1
+R4
+R5
+vif_id
+R8
+!i10b 1
+!s100 k56zBabh?UKobNgOgZ@Zg3
+R0
+IDVPm3@=<6UK0h6:P:8<FS2
+R1
+R2
+w1606456941
+8D:/sopc/if_id.v
+FD:/sopc/if_id.v
+!i122 2012
+L0 5 35
+R3
+r1
+!s85 0
+31
+R9
+!s107 defines.v|D:/sopc/if_id.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/if_id.v|
+!i113 1
+R4
+R5
+vinst_rom
+Z11 !s110 1606462308
+!i10b 1
+!s100 OFXHDn2zLT2b^b_oA=Zof3
+R0
+I5Hl0]k<ADkT[eF@U[ZI^z1
+R1
+R2
+w1606105760
+8D:/sopc/inst_rom.v
+FD:/sopc/inst_rom.v
+!i122 2013
+L0 5 19
+R3
+r1
+!s85 0
+31
+R9
+!s107 defines.v|D:/sopc/inst_rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/inst_rom.v|
+!i113 1
+R4
+R5
+vLLbit_reg
+R6
+!i10b 1
+!s100 JOe0RA1VJIHYY@K5LL^PT0
+R0
+IBeN@SmcFFD0NcAMdSlGS50
+R1
+R2
+w1606420122
+8D:/sopc/LLbit_reg.v
+FD:/sopc/LLbit_reg.v
+!i122 2025
+L0 5 24
+R3
+r1
+!s85 0
+31
+R7
+!s107 defines.v|D:/sopc/LLbit_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/LLbit_reg.v|
+!i113 1
+R4
+R5
+n@l@lbit_reg
+vmem
+R11
+!i10b 1
+!s100 24z[5>I<5i0`X1Q@]lTMf1
+R0
+IUi=V0denZT6CZa5S:F=Nb1
+R1
+R2
+w1606459663
+8D:/sopc/mem.v
+FD:/sopc/mem.v
+!i122 2014
+L0 5 462
+R3
+r1
+!s85 0
+31
+Z12 !s108 1606462308.000000
+!s107 defines.v|D:/sopc/mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/mem.v|
+!i113 1
+R4
+R5
+vmem_wb
+R11
+!i10b 1
+!s100 o]4C?lMW;Q1_>_UN6NBbT0
+R0
+I05I;Tza0Ah7zXV_e0kVOT2
+R1
+R2
+w1606459756
+8D:/sopc/mem_wb.v
+FD:/sopc/mem_wb.v
+!i122 2015
+L0 5 106
+R3
+r1
+!s85 0
+31
+R12
+!s107 defines.v|D:/sopc/mem_wb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/mem_wb.v|
+!i113 1
+R4
+R5
+vopenmips
+R11
+!i10b 1
+!s100 R0zGdWNL`lf]c?bkNX]FA2
+R0
+IoEjg>b6LHR?8dN]OPo_0P0
+R1
+R2
+w1606461915
+8D:/sopc/openmips.v
+FD:/sopc/openmips.v
+!i122 2016
+L0 5 656
+R3
+r1
+!s85 0
+31
+R12
+!s107 defines.v|D:/sopc/openmips.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/openmips.v|
+!i113 1
+R4
+R5
+vopenmips_min_sopc
+Z13 !s110 1606462309
+!i10b 1
+!s100 CVS`RWkV4^>8SM;3LWe651
+R0
+IJlkRTZahlh:Tc4KnhiF:I2
+R1
+R2
+w1606460798
+8D:/sopc/openmips_min_sopc.v
+FD:/sopc/openmips_min_sopc.v
+!i122 2017
+L0 5 60
+R3
+r1
+!s85 0
+31
+R12
+!s107 defines.v|D:/sopc/openmips_min_sopc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/openmips_min_sopc.v|
+!i113 1
+R4
+R5
+vopenmips_min_sopc_tb
+R13
+!i10b 1
+!s100 I;:ak096V7ZDdbV[6;M4]2
+R0
+I^1>nf21cYeZE=D`@;8>9?2
+R1
+R2
+w1606462301
+8D:/sopc/openmips_min_sopc_tb.v
+FD:/sopc/openmips_min_sopc_tb.v
+!i122 2018
+L0 4 22
+R3
+r1
+!s85 0
+31
+R10
+!s107 defines.v|D:/sopc/openmips_min_sopc_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/openmips_min_sopc_tb.v|
+!i113 1
+R4
+R5
+vpc_reg
+R13
+!i10b 1
+!s100 Q?bm<gHC8a0Jk77hKk_i=1
+R0
+IiFV2L;`0FKk7D?HjMO@Q`2
+R1
+R2
+w1606460969
+8D:/sopc/pc_reg.v
+FD:/sopc/pc_reg.v
+!i122 2019
+L0 5 42
+R3
+r1
+!s85 0
+31
+R10
+!s107 defines.v|D:/sopc/pc_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/pc_reg.v|
+!i113 1
+R4
+R5
+vregfile
+R13
+!i10b 1
+!s100 f?Y@[nD7^C><IeCn_JX9A2
+R0
+I^eP68>HhK1h=TF99A1HHn1
+R1
+R2
+w1606105789
+8D:/sopc/regfile.v
+FD:/sopc/regfile.v
+!i122 2020
+L0 7 64
+R3
+r1
+!s85 0
+31
+R10
+!s107 defines.v|D:/sopc/regfile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/sopc/regfile.v|
+!i113 1
+R4
+R5
